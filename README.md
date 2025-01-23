@@ -3,6 +3,7 @@ Can be used to reconstruct the results and figures in the publication.
 
 Instructions:
 
-    Download data and scripts
+    Download data and script
     Open main_script_RMAS.R with the statistical software R
-    Insert the paths to the folders with the downloaded data at the beginning of the scrip
+    Paste the folder paths to the downloaded data into the corresponding locations marked at the top of the script
+    Run the script
